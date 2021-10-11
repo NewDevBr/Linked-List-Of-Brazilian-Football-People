@@ -1,0 +1,342 @@
+[
+  {
+    "posicao": "Atacante",
+    "posicao_abreviacao": "ATA",
+    "clube": "COR",
+    "clube_nome": "Corinthians",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+    "Atleta": {
+      "nome": "João Alves de Assis Silva",
+      "apelido": "Jô",
+      "apelido_abreviado": "Jô",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/08/06/dab8965273d992c5a42e474aeed7ef37_FORMATO.png",
+      "atleta_id": 38138,
+      "preco_editorial": 8
+    },
+    "clube_id": 264,
+    "escalacoes": 813338
+  },
+  {
+    "posicao": "Zagueiro",
+    "posicao_abreviacao": "ZAG",
+    "clube": "COR",
+    "clube_nome": "Corinthians",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+    "Atleta": {
+      "nome": "João Victor da Silva Marcelino",
+      "apelido": "João Victor",
+      "apelido_abreviado": "J. Victor",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/08/06/2ad4f10146673233d9d0dcb117cd81b9_FORMATO.png",
+      "atleta_id": 104250,
+      "preco_editorial": 5
+    },
+    "clube_id": 264,
+    "escalacoes": 648733
+  },
+  {
+    "posicao": "Meia",
+    "posicao_abreviacao": "MEI",
+    "clube": "COR",
+    "clube_nome": "Corinthians",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+    "Atleta": {
+      "nome": "Giuliano Victor de Paula",
+      "apelido": "Giuliano",
+      "apelido_abreviado": "Giuliano",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/07/22/1e8808fa091e5d4062730e04ed46b383_FORMATO.png",
+      "atleta_id": 51548,
+      "preco_editorial": 10
+    },
+    "clube_id": 264,
+    "escalacoes": 626139
+  },
+  {
+    "posicao": "Meia",
+    "posicao_abreviacao": "MEI",
+    "clube": "CAP",
+    "clube_nome": "Athlético-PR",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+    "Atleta": {
+      "nome": "Maycon Vinícius Ferreira da Cruz",
+      "apelido": "Nikão",
+      "apelido_abreviado": "Nikão",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/b8d275707afc60101f0ad5eda7383e46_FORMATO.png",
+      "atleta_id": 69705,
+      "preco_editorial": 11
+    },
+    "clube_id": 293,
+    "escalacoes": 623590
+  },
+  {
+    "posicao": "Atacante",
+    "posicao_abreviacao": "ATA",
+    "clube": "FOR",
+    "clube_nome": "Fortaleza",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+    "Atleta": {
+      "nome": "Robson dos Santos Fernandes",
+      "apelido": "Robson",
+      "apelido_abreviado": "Robson",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/f4951cba691fbcb073821e4b42f2497d_FORMATO.png",
+      "atleta_id": 84817,
+      "preco_editorial": 7
+    },
+    "clube_id": 356,
+    "escalacoes": 584094
+  },
+  {
+    "posicao": "Meia",
+    "posicao_abreviacao": "MEI",
+    "clube": "FOR",
+    "clube_nome": "Fortaleza",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+    "Atleta": {
+      "nome": "Éderson José dos Santos Lourenço da Silva",
+      "apelido": "Éderson",
+      "apelido_abreviado": "Éderson",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/16c28b7f820021c231cfb80d673b50f4_FORMATO.png",
+      "atleta_id": 103099,
+      "preco_editorial": 5
+    },
+    "clube_id": 356,
+    "escalacoes": 567836
+  },
+  {
+    "posicao": "Goleiro",
+    "posicao_abreviacao": "GOL",
+    "clube": "COR",
+    "clube_nome": "Corinthians",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+    "Atleta": {
+      "nome": "Cássio Roberto Ramos",
+      "apelido": "Cássio",
+      "apelido_abreviado": "Cássio",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/08/06/64a4b5010ed3f52c5b53ba9262475b28_FORMATO.png",
+      "atleta_id": 42234,
+      "preco_editorial": 15
+    },
+    "clube_id": 264,
+    "escalacoes": 546007
+  },
+  {
+    "posicao": "Lateral",
+    "posicao_abreviacao": "LAT",
+    "clube": "COR",
+    "clube_nome": "Corinthians",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+    "Atleta": {
+      "nome": "Fábio Santos Romeu",
+      "apelido": "Fábio Santos",
+      "apelido_abreviado": "F. Santos",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/08/06/cc510671e18768fd48ef8d0f7c4714db_FORMATO.png",
+      "atleta_id": 38229,
+      "preco_editorial": 11
+    },
+    "clube_id": 264,
+    "escalacoes": 534475
+  },
+  {
+    "posicao": "Técnico",
+    "posicao_abreviacao": "TEC",
+    "clube": "COR",
+    "clube_nome": "Corinthians",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+    "Atleta": {
+      "nome": "Sylvio Mendes Campos Júnior",
+      "apelido": "Sylvinho",
+      "apelido_abreviado": "Sylvinho",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/05/23/3f5de39dd472ced21da276d3421413ae_FORMATO.png",
+      "atleta_id": 106047,
+      "preco_editorial": 6
+    },
+    "clube_id": 264,
+    "escalacoes": 527888
+  },
+  {
+    "posicao": "Zagueiro",
+    "posicao_abreviacao": "ZAG",
+    "clube": "FLU",
+    "clube_nome": "Fluminense",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+    "Atleta": {
+      "nome": "Marcílio Florêncio Mota Filho",
+      "apelido": "Nino",
+      "apelido_abreviado": "Nino",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/08/19/015b905d655d90af1c6161f318175dee_FORMATO.png",
+      "atleta_id": 91708,
+      "preco_editorial": 8
+    },
+    "clube_id": 266,
+    "escalacoes": 500058
+  },
+  {
+    "posicao": "Atacante",
+    "posicao_abreviacao": "ATA",
+    "clube": "FLU",
+    "clube_nome": "Fluminense",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+    "Atleta": {
+      "nome": "Frederico Chaves Guedes",
+      "apelido": "Fred",
+      "apelido_abreviado": "Fred",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/08/19/c945ae80ae611c6862eef1fc338ddba6_FORMATO.png",
+      "atleta_id": 38162,
+      "preco_editorial": 12
+    },
+    "clube_id": 266,
+    "escalacoes": 490755
+  },
+  {
+    "posicao": "Meia",
+    "posicao_abreviacao": "MEI",
+    "clube": "FOR",
+    "clube_nome": "Fortaleza",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+    "Atleta": {
+      "nome": "Glaybson Yago Souza Lisboa",
+      "apelido": "Yago Pikachu",
+      "apelido_abreviado": "Y. Pikachu",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/9a4375bdf79838ec083ac6bd13e2be84_FORMATO.png",
+      "atleta_id": 80196,
+      "preco_editorial": 6
+    },
+    "clube_id": 356,
+    "escalacoes": 441614
+  },
+  {
+    "posicao": "Zagueiro",
+    "posicao_abreviacao": "ZAG",
+    "clube": "COR",
+    "clube_nome": "Corinthians",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+    "Atleta": {
+      "nome": "Carlos Gilberto do Nascimento Silva",
+      "apelido": "Gil",
+      "apelido_abreviado": "Gil",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/08/06/4139875768caeb6b0b660c71a65008f5_FORMATO.png",
+      "atleta_id": 68923,
+      "preco_editorial": 10
+    },
+    "clube_id": 264,
+    "escalacoes": 423392
+  },
+  {
+    "posicao": "Atacante",
+    "posicao_abreviacao": "ATA",
+    "clube": "CAP",
+    "clube_nome": "Athlético-PR",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+    "Atleta": {
+      "nome": "Guilherme Bissoli Campos",
+      "apelido": "Bissoli",
+      "apelido_abreviado": "Bissoli",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/08/31/4fbfa4ee85c4c10a6a17846aff0e0e59_FORMATO.png",
+      "atleta_id": 100762,
+      "preco_editorial": 6
+    },
+    "clube_id": 293,
+    "escalacoes": 422574
+  },
+  {
+    "posicao": "Atacante",
+    "posicao_abreviacao": "ATA",
+    "clube": "COR",
+    "clube_nome": "Corinthians",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+    "Atleta": {
+      "nome": "Gustavo Henric da Silva",
+      "apelido": "Gustavo Mosquito",
+      "apelido_abreviado": "G. Mosquito",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/08/06/3fd9ca2e9488e4973c5694dc7e48d5d4_FORMATO.png",
+      "atleta_id": 97450,
+      "preco_editorial": 7
+    },
+    "clube_id": 264,
+    "escalacoes": 384104
+  },
+  {
+    "posicao": "Zagueiro",
+    "posicao_abreviacao": "ZAG",
+    "clube": "CAP",
+    "clube_nome": "Athlético-PR",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+    "Atleta": {
+      "nome": "Thiago Heleno Henrique Ferreira",
+      "apelido": "Thiago Heleno",
+      "apelido_abreviado": "T. Heleno",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/f69df2ecdf5d2a9d11697c61673c4358_FORMATO.png",
+      "atleta_id": 38394,
+      "preco_editorial": 9
+    },
+    "clube_id": 293,
+    "escalacoes": 377945
+  },
+  {
+    "posicao": "Meia",
+    "posicao_abreviacao": "MEI",
+    "clube": "SAN",
+    "clube_nome": "Santos",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+    "Atleta": {
+      "nome": "Jean Mota Oliveira de Sousa",
+      "apelido": "Jean Mota",
+      "apelido_abreviado": "J. Mota",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/05/04/50a4232a794bf2d25337a3c7072c062d_FORMATO.png",
+      "atleta_id": 78548,
+      "preco_editorial": 5
+    },
+    "clube_id": 277,
+    "escalacoes": 329422
+  },
+  {
+    "posicao": "Goleiro",
+    "posicao_abreviacao": "GOL",
+    "clube": "SAN",
+    "clube_nome": "Santos",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+    "Atleta": {
+      "nome": "João Paulo Silva Martins",
+      "apelido": "João Paulo",
+      "apelido_abreviado": "J. Paulo",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/05/04/e9d3dc6f19ff09461dc2f3f5d0a5bd61_FORMATO.png",
+      "atleta_id": 85425,
+      "preco_editorial": 8
+    },
+    "clube_id": 277,
+    "escalacoes": 256124
+  },
+  {
+    "posicao": "Lateral",
+    "posicao_abreviacao": "LAT",
+    "clube": "CAP",
+    "clube_nome": "Athlético-PR",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+    "Atleta": {
+      "nome": "Márcio Almeida de Oliveira",
+      "apelido": "Marcinho",
+      "apelido_abreviado": "Marcinho",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/e56071aa0e10e7ca50ed8c72d4a1d25a_FORMATO.png",
+      "atleta_id": 93797,
+      "preco_editorial": 6
+    },
+    "clube_id": 293,
+    "escalacoes": 254951
+  },
+  {
+    "posicao": "Meia",
+    "posicao_abreviacao": "MEI",
+    "clube": "SAN",
+    "clube_nome": "Santos",
+    "escudo_clube": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+    "Atleta": {
+      "nome": "Carlos Andrés Sánchez Arcosa",
+      "apelido": "Carlos Sánchez",
+      "apelido_abreviado": "C. Sánchez",
+      "foto": "https://s.glbimg.com/es/sde/f/2021/05/04/0114554943a088276966824a3ae8496b_FORMATO.png",
+      "atleta_id": 81677,
+      "preco_editorial": 10
+    },
+    "clube_id": 277,
+    "escalacoes": 250889
+  }
+]
